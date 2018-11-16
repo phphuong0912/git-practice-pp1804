@@ -45,4 +45,9 @@ lksdnglkansg
 echo 'su';
 });
 
+Route::get('sualan1', function(){
+    echo 'sualan1';
+});
+
+
 

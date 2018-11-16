@@ -49,5 +49,9 @@ Route::get('sualan1', function(){
     echo 'sualan1';
 });
 
+Route::get('sualan2', function(){
+    echo 'sualan2';
+});
+
 
 

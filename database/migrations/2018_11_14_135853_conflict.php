@@ -24,6 +24,8 @@ class Conflict extends Migration
      */
     public function down()
     {
-        //
+        // 
+
+        
     }
 }

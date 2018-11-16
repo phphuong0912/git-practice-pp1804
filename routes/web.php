@@ -33,6 +33,9 @@ Route::get('test-doanhvv', function(){
 
 Route::get('phuong', function(){
 
+
+
+    
 echo 'phuong';
 echo 'doanh';
 });

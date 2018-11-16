@@ -27,6 +27,10 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/home', 'HomeController@index')->name('home');
 
+Route::get('test-doanhvv', function(){
+    echo 'doanhvv test';
+});
+
 Route::get('phuong', function(){
 
 echo 'phuong';

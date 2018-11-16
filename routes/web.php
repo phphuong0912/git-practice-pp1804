@@ -34,7 +34,7 @@ echo 'doanh';
 });
 
 Route::get('phuong', function(){
-
+lksdnglkansg
 echo 'su';
 });
 

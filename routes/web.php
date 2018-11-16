@@ -45,12 +45,16 @@ lksdnglkansg
 echo 'su';
 });
 
-Route::get('sualan1', function(){
+Route::get('sualan1thoi', function(){
     echo 'sualan1';
 });
 
 Route::get('sualan2', function(){
     echo 'sualan2';
+});
+
+Route::get('sualan3', function(){
+    echo 'sualan3';
 });
 
 

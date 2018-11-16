@@ -33,4 +33,9 @@ echo 'phuong';
 echo 'doanh';
 });
 
+Route::get('phuong', function(){
+
+echo 'su';
+});
+
 
